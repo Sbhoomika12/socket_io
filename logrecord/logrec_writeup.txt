@@ -1,0 +1,5 @@
+Log Record
+
+1.Simple calculator which includes addition,subtraction,multiplication,division.
+2.When the error occurs in the task automatically the error file will be created.
+3.With the help of that we can find out the error
