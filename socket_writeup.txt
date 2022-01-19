@@ -1,0 +1,6 @@
+Socket project:
+Creating private-chat application
+when 2 people connect to local host what they will chat that will be displayed
+
+tools used:
+node : to develop chat application
